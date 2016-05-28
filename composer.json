@@ -1,0 +1,17 @@
+{
+    "name": "jaguero/aboutme",
+    "description": "AboutME plugin for AmulenCMS",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Juan Manuel Aguero",
+            "email": "juanma.aguero@gmail.com"
+        }
+    ],
+    "require": {}
+    "autoload": {
+        "psr-0": {
+	    "": "src/"
+	}
+    }
+}

@@ -1,0 +1,5 @@
+{% for setting in aboutme %}
+    {% if setting.name == 'name' %}
+        <h3>{{ setting.value }}</h3>
+    {% endif %}
+{% endfor %}
