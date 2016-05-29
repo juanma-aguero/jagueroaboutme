@@ -8,10 +8,10 @@
       "email": "juanma.aguero@gmail.com"
     }
   ],
-  "require": {},
   "autoload": {
     "psr-0": {
       "": "src/"
     }
-  }
+  },
+  "require": {}
 }
